@@ -13,7 +13,7 @@ Product Catalog is an online store platform where users can browse, filter, and 
 - LocalStorage
   
 ### 🔗 Link to view
-[DEMO LINK](https://k-shestakov.github.io/phone-catalog/)
+[DEMO LINK](https://phone-catalog-j9t8.onrender.com)
   
 ### 🎨 Link to mockup
 [MOCKUP](https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original)
